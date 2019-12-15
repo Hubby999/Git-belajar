@@ -1,15 +1,25 @@
 body{
-background-color: grey;
+background-color: white;
 margin: 0;
 padding: 0;
 }
 
+
+header {
+    text-align: center;
+    background-color: chocolate;
+    padding: 15px;
+
+}
+
+#body {
+    text-align: center;
+    line-height: 100vh;
+}
 footer{
     text-align: center;
     background-color: chocolate;
-    color: white;
     padding: 15px;
     position: absolute;
     bottom: 0;
     width: 100;
-}
