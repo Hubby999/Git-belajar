@@ -20,7 +20,5 @@ footer{
     text-align: center;
     background-color: chocolate;
     padding: 15px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    color: white;
 }
